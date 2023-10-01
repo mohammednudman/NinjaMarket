@@ -53,7 +53,7 @@ Follow these instructions to get the project up and running on your local machin
    ```
 
 ### License
-This project is licensed under the MIT License - see the LICENSE.md file for details.
+This project is licensed under the APACHE2 License - see the LICENSE.md file for details.
 
 Contact
 If you have any questions or need further assistance, please feel free to contact us at [mohammednudman@gmail.com](mohammednudman@gmail.com).
