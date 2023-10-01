@@ -38,7 +38,7 @@ Follow these instructions to get the project up and running on your local machin
    ```
 2. Create a .env file in the server directory and configure environment variables:
    ```.dotenv
-   PORT=8000
+   PORT=
    DB_URI =
    STRIPE_API_KEY=
    STRIPE_SECRET_KEY=
