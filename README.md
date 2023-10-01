@@ -36,7 +36,7 @@ Follow these instructions to get the project up and running on your local machin
    cd frontend
    npm install
    ```
-### Create a .env file in the server directory and configure environment variables:
+2. Create a .env file in the server directory and configure environment variables:
 ```.dotenv
 PORT=8000
 DB_URI =
