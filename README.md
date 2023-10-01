@@ -37,20 +37,20 @@ Follow these instructions to get the project up and running on your local machin
    npm install
    ```
 2. Create a .env file in the server directory and configure environment variables:
-```.dotenv
-PORT=8000
-DB_URI =
-STRIPE_API_KEY=
-STRIPE_SECRET_KEY=
-JWT_SECRET=
-JWT_EXPIRE=
-COOKIE_EXPIRE=
-SMPT_SERVICE =
-SMPT_MAIL=
-SMPT_PASSWORD=
-SMPT_HOST=
-SMPT_PORT=
-```
+   ```.dotenv
+   PORT=8000
+   DB_URI =
+   STRIPE_API_KEY=
+   STRIPE_SECRET_KEY=
+   JWT_SECRET=
+   JWT_EXPIRE=
+   COOKIE_EXPIRE=
+   SMPT_SERVICE =
+   SMPT_MAIL=
+   SMPT_PASSWORD=
+   SMPT_HOST=
+   SMPT_PORT=
+   ```
 
 ### License
 This project is licensed under the MIT License - see the LICENSE.md file for details.
